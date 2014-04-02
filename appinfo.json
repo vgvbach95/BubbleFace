@@ -1,0 +1,59 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "0d88e6d6-45b3-4e61-8264-35114a7b18e5",
+    "appKeys": {},
+    "longName": "Bubble Face",
+    "versionCode": 47,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Bubble Face",
+    "companyName": "Victoria Vanderbach",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "CHARGING",
+                "file": "images/Charging.png"
+            },
+            {
+                "type": "png",
+                "name": "ABOVE_75",
+                "file": "images/75Battery.png"
+            },
+            {
+                "type": "png",
+                "name": "ABOVE_50",
+                "file": "images/50Battery.png"
+            },
+            {
+                "type": "png",
+                "name": "ABOVE_25",
+                "file": "images/25Battery.png"
+            },
+            {
+                "type": "png",
+                "name": "ABOVE_ZERO",
+                "file": "images/0Battery.png"
+            },
+            {
+                "type": "png",
+                "name": "B_DCON",
+                "file": "images/BadConnection.png"
+            },
+            {
+                "type": "png",
+                "name": "B_CON",
+                "file": "images/GoodConnection.png"
+            },
+            {
+                "type": "png",
+                "name": "BACKGROUND_IMAGE",
+                "file": "images/PebbleIdea.png"
+            }
+        ]
+    }
+}
