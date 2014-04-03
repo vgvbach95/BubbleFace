@@ -104,7 +104,7 @@ static void handle_init(void) {
   GFont font = fonts_get_system_font(FONT_KEY_DROID_SERIF_28_BOLD);
 
   //date
-  date_layer = text_layer_create(GRect(60, 75, bounds.size.w-50, bounds.size.h - 20));
+  date_layer = text_layer_create(GRect(60, 80, bounds.size.w-50, bounds.size.h - 20));
   text_layer_set_background_color(date_layer, GColorClear);
   text_layer_set_text_color(date_layer, GColorBlack);
   text_layer_set_font(date_layer, font);
